@@ -2,9 +2,7 @@
 
 Hello World!
 
-The quick brown fox
-jumped over the
-lazy dog
+Good bye, I can't be bothered writing a story.
 
 
 Then the lazy dog
