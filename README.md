@@ -5,13 +5,26 @@ Hello World!
 The quick brown fox and cat
 jumped over the
 lazy frog
+frog frog frog frog
+frog frog frog
+frog frog
+frog
 
 Then the lazy dog
-ate my homework
+ate my homework homework
+ate my homework home
+ate my homework ho
+at my homewo ho
+a my ho
 
-Then my teacher ate the dog.
+Then my teacher ate the frog.
+Then my teach ate the dogs.
 
 The end
+ending
+ended
+endeeeeeed
+endeeeeeeeeed
 
 Or is it???
 
