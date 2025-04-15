@@ -18,3 +18,7 @@ Or is it???
 The next day the teacher rose from the dead
 
 But dogs aren't lazy so this story is fully cooked
+
+The sly red cat
+slipped beneath the
+dozing hound
