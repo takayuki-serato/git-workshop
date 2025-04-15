@@ -2,15 +2,14 @@
 
 Hello World!
 
-The quick brown fox
+The quick brown fox and cat
 jumped over the
-lazy dog
-
+lazy frog
 
 Then the lazy dog
 ate my homework
 
-Then my teacher ate the dog. 
+Then my teacher ate the dog.
 
 The end
 
