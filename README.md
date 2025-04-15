@@ -31,3 +31,5 @@ Or is it???
 The next day the teacher rose from the dead
 
 But dogs aren't lazy so this story is fully cooked
+
+I hope this story has a happy ending
